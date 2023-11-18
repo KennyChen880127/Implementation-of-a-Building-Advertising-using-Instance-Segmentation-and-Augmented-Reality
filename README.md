@@ -15,14 +15,14 @@ This study presents two major systems designed for automotive driver assistance.
 * Utilizing two ZED 2i stereo cameras to achieve a wide-angle system and enable distance measurement.
 * Detecting various departmental buildings within an effective distance through feature recognition,like the image below:
 
-![建築物廣告系統介紹](https://github.com/KennyChen880127/YOLACT-Building-AR/assets/99500847/f7158bb2-73d3-4bf1-96e9-7f45471cb996)
+![介紹辨識建築物](https://github.com/KennyChen880127/YOLACT-Building-AR/assets/99500847/62714fc9-9365-4bab-83b7-b4c0db3e2973)
   
 ### Results
 * Building AR System
 
 | Dept. of Electrical Engineering | Dept. of Mechanical Engineering | Dept. of Industrial Design | Dept. of Applied Foreign Languages | Dept. of Creative Design |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| ![電機系](https://github.com/KennyChen880127/YOLACT-Building-AR/assets/99500847/92ea3b31-f933-4402-b175-60ddbde38c69) |![機械系](https://github.com/KennyChen880127/YOLACT-Building-AR/assets/99500847/89dd5aaa-7544-48ff-9ac6-3edd6ca4b4a2) | ![工設系](https://github.com/KennyChen880127/YOLACT-Building-AR/assets/99500847/5d4e1abb-a1f5-4d72-a39a-ddb4ae39ab69) | ![應外系](https://github.com/KennyChen880127/YOLACT-Building-AR/assets/99500847/9b7f23c0-062e-48b9-8fa3-22843b6d7fac) | ![產設系](https://github.com/KennyChen880127/YOLACT-Building-AR/assets/99500847/28fd801c-e58a-4da7-a4ce-678ed58a3a09) | 
+| ![電機系](https://github.com/KennyChen880127/YOLACT-Building-AR/assets/99500847/92ea3b31-f933-4402-b175-60ddbde38c69) | ![機械系](https://github.com/KennyChen880127/YOLACT-Building-AR/assets/99500847/123d0137-d303-4712-ac30-0d1876b864d1) | ![工設系](https://github.com/KennyChen880127/YOLACT-Building-AR/assets/99500847/242e4cf9-ddc0-46af-b7a2-4f64815f558e) | ![應外系](https://github.com/KennyChen880127/YOLACT-Building-AR/assets/99500847/ba452533-e75f-4909-b11f-cfbf21554811) | ![產設系](https://github.com/KennyChen880127/YOLACT-Building-AR/assets/99500847/906a742d-ed37-488d-bf06-d8e0ce2d7020) | 
 
 * Lane Detection System (Use ZED 2i Stereo Camera)
 
