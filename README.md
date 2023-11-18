@@ -22,7 +22,7 @@ This study presents two major systems designed for automotive driver assistance.
 
 | Dept. of Electrical Engineering | Dept. of Mechanical Engineering | Dept. of Industrial Design | Dept. of Applied Foreign Languages | Dept. of Creative Design |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| ![電機系](https://github.com/KennyChen880127/YOLACT-Building-AR/assets/99500847/b0b34d5c-207e-4b43-8e81-2b9db21171b1) |![機械系](https://github.com/KennyChen880127/YOLACT-Building-AR/assets/99500847/89dd5aaa-7544-48ff-9ac6-3edd6ca4b4a2) | ![工設系](https://github.com/KennyChen880127/YOLACT-Building-AR/assets/99500847/5d4e1abb-a1f5-4d72-a39a-ddb4ae39ab69) | ![應外系](https://github.com/KennyChen880127/YOLACT-Building-AR/assets/99500847/9b7f23c0-062e-48b9-8fa3-22843b6d7fac) | ![產設系](https://github.com/KennyChen880127/YOLACT-Building-AR/assets/99500847/28fd801c-e58a-4da7-a4ce-678ed58a3a09) | 
+| ![電機系] (https://github.com/KennyChen880127/YOLACT-Building-AR/assets/99500847/c9493f2b-c0fb-4027-afee-773227798acd) |![機械系](https://github.com/KennyChen880127/YOLACT-Building-AR/assets/99500847/89dd5aaa-7544-48ff-9ac6-3edd6ca4b4a2) | ![工設系](https://github.com/KennyChen880127/YOLACT-Building-AR/assets/99500847/5d4e1abb-a1f5-4d72-a39a-ddb4ae39ab69) | ![應外系](https://github.com/KennyChen880127/YOLACT-Building-AR/assets/99500847/9b7f23c0-062e-48b9-8fa3-22843b6d7fac) | ![產設系](https://github.com/KennyChen880127/YOLACT-Building-AR/assets/99500847/28fd801c-e58a-4da7-a4ce-678ed58a3a09) | 
 
 * Lane Detection System (Use ZED 2i Stereo Camera)
 
