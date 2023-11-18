@@ -26,5 +26,5 @@ This study presents two major systems designed for automotive driver assistance.
 
 * Lane Detection System (Use ZED 2i Stereo Camera)
 
-![類別_腳踏車_左](https://github.com/KennyChen880127/YOLACT-Building-AR/assets/99500847/1df63394-548c-4eff-a80b-02ad6977b988)
 
+![類別_腳踏車_左](https://github.com/KennyChen880127/YOLACT-Building-AR/assets/99500847/d792e0a2-0959-4fcd-b7b0-464404b84e1d)
