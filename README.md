@@ -1,7 +1,7 @@
 <div align="center">
 <h1>
 <b>
-Implementation of a Building Advertising System using Instance Segmentation and Augmented Reality
+Implementation of a Building Advertising using Instance Segmentation and Augmented Reality
 </b>
 </h1>
 </div>
