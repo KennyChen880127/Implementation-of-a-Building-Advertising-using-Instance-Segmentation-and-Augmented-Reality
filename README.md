@@ -1,4 +1,11 @@
-# YOLACT-Building-AR
+<div align="center">
+<h1>
+<b>
+Implementation of a Building Advertising System using Instance Segmentation and Augmented Reality
+</b>
+</h1>
+</div>
+
 This study presents two major systems designed for automotive driver assistance. The first is a Forward Safety Warning System, which utilizes the [YOLACT](https://github.com/dbolya/yolact) real-time segmentation algorithm to identify the center point of objects ahead. It then calculates distances to these objects using 3D point cloud data from two [ZED 2i stereo cameras](https://www.stereolabs.com/zed-2i/) to provide warnings. The second system is an Augmented Reality Advertisement System for buildings. It employs the YOLACT segmentation algorithm to recognize buildings, estimates their approximate polygon sides and outer dimensions, and displays promotional videos for various campus departments using augmented reality techniques.
 
 ![介紹辨識建築物](https://github.com/KennyChen880127/YOLACT-Building-AR/assets/99500847/62714fc9-9365-4bab-83b7-b4c0db3e2973)
